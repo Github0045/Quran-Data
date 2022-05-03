@@ -1,0 +1,21 @@
+[
+  {
+    "qari":"عبدالباسط",
+    "nationality": "مصري",
+    "qari_img": "http://1.bp.blogspot.com/-Ru2pQbrnySU/Tca6ZqRaqkI/AAAAAAAABl0/Jd0bAc1HOgA/s280/71h8gp.png",
+    "surahs": [
+      {
+        "surah_name": "الفاتحة",
+        "surah_idx": 1,
+        "revealed": "مكية",
+        "audio_url": ""
+      },
+      {
+        "surah_name": "الناس",
+        "surah_idx": 114,
+        "revealed": "مكية",
+        "audio_url": ""
+      }
+    ]
+  }
+]
